@@ -13,3 +13,4 @@ def test_secondMethod():
     print("\nThe value of c is :")
     print(c)
     assert c==19,"Because C=6 thats why this failed."
+#adding commands for github

@@ -15,6 +15,7 @@ def test_logging():
     logger.warning("User logged in 2 times. If third attempt fails account will be locked.")
     logger.error("Some error in login functionality")
     logger.critical("Critical error user cannot login")
+# Adding command for github
 
 
 
